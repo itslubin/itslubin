@@ -1,9 +1,9 @@
 # Lubin 
 #### Software Engineer & CS Student <br/>
 #### FrontEnd: HTML | CSS <br/>
-#### Coding skills: C++ | Java | SQl | Python  <br/>
+#### Coding skills: C++ | Java | SQL | Python  <br/>
 #### Tools: Eclipse | VS Code | Oracle <br/>
-####  :sushi: Sushi aficionado & :muscle: gym workout
+####  :sushi: sushi aficionado & :muscle: gym workout
 
 ## My values
 
