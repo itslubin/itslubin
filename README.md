@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @itslubin
-- 👀 I’m interested in learning new programming languages and ethical hacking
-- 🌱 I’m currently learning C++
+# Lubin 
+#### Software Engineer & CS Student <br/>
+#### FrontEnd: HTML | CSS <br/>
+#### Coding skills: C++ | Java | SQl | Python |  <br/>
+#### Tools: Eclipse | VS Code | Oracle <br/>
+####  :taco: Tacomaster & :pizza: pizza aficionado
 
-<!---
-itslubin/itslubin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My values
+
+:open_hands:  **Teamwork** makes everyone stronger <br/>
+
+:key:  Good **communication** is essential <br/>
+
+:hearts:  I'm eager to **learn** something new <br/>
+
+
+## Get in touch 
+LinkedIn: [@itslubin](https://www.linkedin.com/in/itslubin/)
+Email: lubinyee@gmail.com
+
