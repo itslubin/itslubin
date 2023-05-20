@@ -3,7 +3,6 @@
 #### FrontEnd: HTML | CSS <br/>
 #### Coding skills: C++ | Java | SQL | Python  <br/>
 #### Tools: Eclipse | VS Code | Oracle <br/>
-####  :sushi: sushi aficionado & :muscle: gym workout
 
 ## My values
 
