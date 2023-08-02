@@ -1,8 +1,5 @@
 # Lubin 
-#### Software Engineer & CS Student <br/>
-#### FrontEnd: HTML | CSS <br/>
-#### Coding skills: C++ | Java | SQL | Python  <br/>
-#### Tools: Eclipse | VS Code | Oracle <br/>
+#### AI Software Engineer & CS Student <br/>
 
 ## My values
 
@@ -15,7 +12,7 @@
 ## About me
 
 Computers :computer: have always given me a platform to emphasise my creativity and increase my general knowledge.
-I am constantly seeking to learn new skills and gain experience from various activities. 
+I have worked in Open Source projects and I am currently learning more about Artificial Intelligence, Blockchain and Robotics :robot:
 
 
 ## Get in touch 
