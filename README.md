@@ -1,5 +1,4 @@
 # Lubin 
-#### CS Student <br/>
 
 ## My values
 
