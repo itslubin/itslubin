@@ -1,5 +1,5 @@
 # Lubin 
-#### AI Software Engineer & CS Student <br/>
+#### CS Student <br/>
 
 ## My values
 
