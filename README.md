@@ -10,8 +10,9 @@
 
 ## About me
 
-Computers :computer: have always given me a platform to emphasise my creativity and increase my general knowledge.
-I have worked in Open Source projects and I am currently learning more about Artificial Intelligence, Blockchain and Robotics :robot:
+I love building software to help people to do what they couldn’t do before. I am passionate about innovation and using technology to
+enable others and feel most fulfilled when doing so. Computers :computer: have always given me a platform to emphasise my creativity and increase my general knowledge.
+Currently, I am learning more about Cloud, Blockchain and Artificial Intelligence :robot:
 
 
 ## Get in touch 
