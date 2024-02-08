@@ -1,4 +1,5 @@
 # Lubin 
+![Header] https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=itslubin&textBg=false&descAlign=82&descAlignY=42&animation=fadeIn
 
 ## My values
 
@@ -19,3 +20,5 @@ Currently, I am learning more about Cloud, Blockchain and Artificial Intelligenc
 LinkedIn: [@itslubin](https://www.linkedin.com/in/itslubin/)
 Email: lubinyee@gmail.com
 
+![](https://github-readme-stats.vercel.app/api?username=itslubin&show_icons=true&theme=tokyonight&line_height=24&card_width=450&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itslubin&layout=compact&langs_count=8&hide=Tcl&show_icons=true&theme=tokyonight&count_private=true)
