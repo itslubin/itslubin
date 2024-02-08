@@ -1,5 +1,11 @@
 # Lubin 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=itslubin&textBg=false&descAlign=82&descAlignY=42&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=Lubin&fontSize=50)
+
+## About me
+
+I love building software to help people to do what they couldn’t do before. I am passionate about innovation and using technology to
+enable others and feel most fulfilled when doing so. Computers :computer: have always given me a platform to emphasise my creativity and increase my general knowledge.
+Currently, I am learning more about Cloud, Blockchain and Artificial Intelligence :robot:
 
 ## My values
 
@@ -8,12 +14,6 @@
 :key:  Good **communication** is essential <br/>
 
 :hearts:  I'm eager to **learn** something new <br/>
-
-## About me
-
-I love building software to help people to do what they couldn’t do before. I am passionate about innovation and using technology to
-enable others and feel most fulfilled when doing so. Computers :computer: have always given me a platform to emphasise my creativity and increase my general knowledge.
-Currently, I am learning more about Cloud, Blockchain and Artificial Intelligence :robot:
 
 
 ## Get in touch 
