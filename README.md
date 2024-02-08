@@ -1,5 +1,5 @@
 # Lubin 
-![Header] (https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=itslubin&textBg=false&descAlign=82&descAlignY=42&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=itslubin&textBg=false&descAlign=82&descAlignY=42&animation=fadeIn)
 
 ## My values
 
