@@ -1,4 +1,3 @@
-# Lubin 
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=Lubin&fontSize=50)
 
 ## About me
