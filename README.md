@@ -3,8 +3,7 @@
 ## About me
 
 I love building software to help people to do what they couldn’t do before. I am passionate about innovation and using technology to
-enable others and feel most fulfilled when doing so. Computers :computer: have always given me a platform to emphasise my creativity and increase my general knowledge.
-Currently, I am learning more about Cloud, Blockchain and Artificial Intelligence :robot:
+enable others and feel most fulfilled when doing so. Computers :computer: have always given me a platform to emphasise my creativity and increase my general knowledge. Always eager to learn something new!
 
 ## My values
 
