@@ -11,7 +11,7 @@ enable others and feel most fulfilled when doing so. Computers :computer: have a
 
 :key:  Good **communication** is essential <br/>
 
-:hearts:  I'm eager to **learn** something new <br/>
+:hearts:  Patience & curiosity is key for **learning** <br/>
 
 
 ## Get in touch 
