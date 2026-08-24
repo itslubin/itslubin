@@ -15,7 +15,7 @@ enable others and feel most fulfilled when doing so. Computers :computer: have a
 
 
 ## Get in touch 
-LinkedIn: [@itslubin](https://www.linkedin.com/in/itslubin/)
+LinkedIn: [@itslubin](https://www.linkedin.com/in/lubinye/)
 Email: lubinyee@gmail.com
 
 <br/>
