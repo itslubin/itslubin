@@ -1,22 +1,16 @@
-![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=Lubin&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=160&animation=fadeIn&section=header&text=Hi! I'm Lubin&fontSize=50)
 
 ## About me
 
-I love building software to help people to do what they couldn’t do before. I am passionate about innovation and using technology to
-enable others and feel most fulfilled when doing so. Computers :computer: have always given me a platform to emphasise my creativity and increase my general knowledge. Always eager to learn something new!
+- Born in Madrid, based in Amsterdam
+- MSc Computer Science student at the University of Amsterdam and Vrije Universiteit Amsterdam (Big Data Engineering track)
+- Former R&D intern at the CWI Database Architectures group, where I built [LPTS](https://github.com/cwida/lpts), a DuckDB extension that turns optimized query plans back into readable SQL
+- Previously interned at Itestra (software engineering) and ITI (AI and robotics research)
+- Interested in data platforms, database systems and infrastructure for AI
+- Speak Spanish, Chinese and English, and currently learning Dutch
+- Outside of code, I create content about Asian culture
 
-## My values
-
-:open_hands:  **Teamwork** makes everyone stronger <br/>
-
-:key:  Good **communication** is essential <br/>
-
-:hearts:  Patience & curiosity are key for **learning** <br/>
-
-
-## Get in touch 
-LinkedIn: [@itslubin](https://www.linkedin.com/in/lubinye/)
-Email: lubinyee@gmail.com
+Reach me on [LinkedIn](https://linkedin.com/in/lubinye).
 
 <br/>
 
